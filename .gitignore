@@ -1,0 +1,25 @@
+# Log files generated at runtime
+*.jsonl
+
+# Temp download artifacts
+PowerShellScripts-vm-tools/
+
+
+# Augment Extensions
+.augment/extensions.json
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
+
+# AI Prompts
+ai-prompts/
+
+# Augment
+.augment/
+
+# Tests
+Tests/
+
+.beads/
+
